@@ -38,8 +38,8 @@
 	--color-secondary-900: oklch(30% 0.1 30);
 	--color-secondary-950: oklch(20% 0.11 30);
 
-	--font-body: 'Inter', sans-serif;
-	--font-display: 'Inter', sans-serif;
+	--font-body: 'Manrope', sans-serif;
+	--font-display: 'Manrope', sans-serif;
 }
 
 @layer base {
